@@ -64,6 +64,4 @@ Load the dataset and print the metadata in the notebook and printed a heatmap to
 
 Performed splitting of train and test data and feature scaling on independent variables .
 
-We build a classifier model using AdaBoost Classifier algorithm and printed classification report and plotted confusion matrix and determined
-
-the stratified cross validation accuracy .
+We build a classifier model using AdaBoost Classifier algorithm and printed classification report and plotted confusion matrix and determined the stratified cross validation accuracy .
