@@ -53,3 +53,17 @@ PAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)
 PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
 
 default.payment.next.month: Default payment (1=yes, 0=no)
+
+## Project 2 : Khyposis Risk Factors
+
+Data were collected on 81 patients undergoing corrective spinal surgery (Bell et al., 1989). The objective was to determine important risk factors for kyphosis following surgery. The risk factors are age in years, the starting vertebrae level of the surgery and the number of levels involved.
+
+Following steps were done in the project :
+
+Load the dataset and print the metadata in the notebook and printed a heatmap to check NULL values and  printed a pairplot of the dataset.
+
+Performed splitting of train and test data and feature scaling on independent variables .
+
+We build a classifier model using AdaBoost Classifier algorithm and printed classification report and plotted confusion matrix and determined
+
+the stratified cross validation accuracy .
